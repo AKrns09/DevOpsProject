@@ -391,7 +391,7 @@ app.get('/mathpractice', (req, res) => {
                             </div>
                         </div>
                         <div class="sum">
-                            <p>Q3) 4 x 3 =</p>
+                            <p>Q3) 4 x 6 =</p>
                             <div class="answers">
                                 <label>
                                     <input type="text" name="q3">
